@@ -1,14 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cde69488-7221-44e3-a3a5-01a3e948ae7d" name="Changes" comment="" />
+    <list default="true" id="cde69488-7221-44e3-a3a5-01a3e948ae7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/QA88APIphonebook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/user_dto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/conftest.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000000001100579" />
+      <entry key="S5" value="1.00032034816629" />
+      <entry key="S10" value="1.0256801151845103" />
+      <entry key="S30" value="1.8083527493980507" />
+      <entry key="S60" value="3.5611947745738393" />
+      <entry key="M2" value="6.695723675186047" />
+      <entry key="M5" value="14.487830298236489" />
+      <entry key="M10" value="24.310249734211524" />
+      <entry key="M15" value="30.795415674898525" />
+      <entry key="M30" value="40.628836047196614" />
+      <entry key="H1" value="47.434295066380606" />
+      <entry key="H2" value="51.46764786992458" />
+      <entry key="H4" value="53.66730798936691" />
+      <entry key="D1" value="55.60160450147945" />
+      <entry key="W1" value="55.942845864134846" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.0906962996971562E-226" />
+      <entry key="S5" value="4.1217489492762306E-91" />
+      <entry key="S10" value="6.420084850900515E-46" />
+      <entry key="S30" value="8.626744241912948E-16" />
+      <entry key="S60" value="2.937131975569525E-8" />
+      <entry key="M2" value="1.7138062829764425E-4" />
+      <entry key="M5" value="0.03115908473614543" />
+      <entry key="M10" value="0.17651936079689795" />
+      <entry key="M15" value="0.31467450962817184" />
+      <entry key="M30" value="0.5609585632006805" />
+      <entry key="H1" value="0.7489716704927365" />
+      <entry key="H2" value="0.8654314938183936" />
+      <entry key="H4" value="0.9302857054789097" />
+      <entry key="D1" value="0.9880283160878889" />
+      <entry key="W1" value="0.9982809190813676" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="3.583994862419175E-6" />
+      <entry key="MS500" value="0.08144669683520586" />
+      <entry key="S2" value="0.534217817911399" />
+      <entry key="S5" value="0.7783667649575058" />
+      <entry key="S10" value="0.902032128378528" />
+      <entry key="S30" value="1.71958269407204" />
+      <entry key="S60" value="3.4665430937633013" />
+      <entry key="M2" value="6.602560818003567" />
+      <entry key="M5" value="14.44241645067944" />
+      <entry key="M10" value="24.428542332163964" />
+      <entry key="M15" value="31.063366093012196" />
+      <entry key="M30" value="41.16077327715411" />
+      <entry key="H1" value="48.16687384783822" />
+      <entry key="H2" value="52.324335762406356" />
+      <entry key="H4" value="54.59307409092975" />
+      <entry key="D1" value="56.58885801124806" />
+      <entry key="W1" value="56.94101555538803" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0,
@@ -23,11 +105,17 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true"
   }
